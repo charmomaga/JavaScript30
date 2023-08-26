@@ -5,4 +5,4 @@ No Frameworks, No Compilers, No Libraries, No Boilerplate
 
 ## Live Preview
 
-[Demo Site Here](charmomaga.github.io/JavaScript30/)
+[Demo Site Here](https://charmomaga.github.io/JavaScript30/)
